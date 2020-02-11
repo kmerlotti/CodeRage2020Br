@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/11 01:59:12.000.431,=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/02/11 01:59:12.000.333,=emsserverapi.dcp</Transaction>
+    <Transaction>2020/02/11 01:59:24.000.243,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\CEP.dproj</Transaction>
+    <Transaction>2020/02/11 01:59:31.000.671,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\CEP.dproj=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\CEPs.dproj</Transaction>
+    <Transaction>2020/02/11 02:03:21.000.641,=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/02/11 02:05:27.000.847,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\untResourceCeps.dfm</Transaction>
+    <Transaction>2020/02/11 02:05:27.000.847,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\untResourceCeps.pas</Transaction>
+    <Transaction>2020/02/11 02:06:20.000.858,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\CEPs.dproj=D:\CodeRage2020Br\ServiçoCEPs\CEPs.dproj</Transaction>
+    <Transaction>2020/02/11 02:06:49.000.829,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\untResourceCeps.pas=D:\CodeRage2020Br\ServiçoCEPs\untResourceCeps.pas</Transaction>
+    <Transaction>2020/02/11 02:06:49.000.829,C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\untResourceCeps.dfm=D:\CodeRage2020Br\ServiçoCEPs\untResourceCeps.dfm</Transaction>
+    <Transaction>2020/02/11 02:07:27.000.592,=D:\CodeRage2020Br\MonolitoRefatoradoIsolado\untDmCep.pas</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.554,=vclFireDAC.dcp</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.562,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.548,=dbrtl.dcp</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.558,=FireDAC.dcp</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.572,=FireDACIBDriver.dcp</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.567,=FireDACCommon.dcp</Transaction>
+    <Transaction>2020/02/11 02:14:05.000.545,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

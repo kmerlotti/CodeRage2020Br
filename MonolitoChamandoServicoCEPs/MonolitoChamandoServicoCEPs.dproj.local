@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/11 00:32:32.000.428,=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/11 00:33:40.000.941,D:\CodeRage2020Br\Monolito\Unit1.dfm=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/11 00:33:40.000.941,D:\CodeRage2020Br\Monolito\Unit1.pas=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/11 00:33:44.000.726,D:\CodeRage2020Br\Monolito\Monolito.dproj=C:\Users\kmerl\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/11 01:36:01.000.998,D:\CodeRage2020Br\MonolitoRefatorado\Monolito.dproj=D:\CodeRage2020Br\MonolitoRefatorado\MonolitoRefatorado.dproj</Transaction>
+    <Transaction>2020/02/11 01:50:18.000.842,D:\CodeRage2020Br\MonolitoRefatoradoIsolado\MonolitoRefatorado.dproj=D:\CodeRage2020Br\MonolitoRefatoradoIsolado\MonolitoRefatoradoIsolado.dproj</Transaction>
+    <Transaction>2020/02/11 01:51:23.000.303,=D:\CodeRage2020Br\MonolitoRefatoradoIsolado\Unit2.pas</Transaction>
+    <Transaction>2020/02/11 01:51:38.000.642,D:\CodeRage2020Br\MonolitoRefatoradoIsolado\untDmCep.pas=D:\CodeRage2020Br\MonolitoRefatoradoIsolado\Unit2.pas</Transaction>
+    <Transaction>2020/02/11 01:51:38.000.642,D:\CodeRage2020Br\MonolitoRefatoradoIsolado\untDmCep.dfm=D:\CodeRage2020Br\MonolitoRefatoradoIsolado\Unit2.dfm</Transaction>
+    <Transaction>2020/02/11 02:23:17.000.984,D:\CodeRage2020Br\MonolitoChamandoServicoCEPs\MonolitoRefatoradoIsolado.dproj=D:\CodeRage2020Br\MonolitoChamandoServicoCEPs\MonolitoChamandoServicoCEPs.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
